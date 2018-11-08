@@ -1,7 +1,50 @@
 <!DOCTYPE html>
 <html>
-	<head>
-	<input type="file" accept="image/*;capture=camera">
-	<input type="file" accept="video/*;capture=camcorder">
-	</head>
+<head>
+<link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="keywords" content="Ræb, og, skammel,">
+<title>Reb og Skammel</title>
+<link href="main.css" rel="stylesheet" type="text/css">
+
+
+<audio autoplay>
+<source src="TieANoose.mp3" type="audio/mp3">
+</audio>
+
+</head>
+
+
+<body>
+<ul class="b">
+  <li><a href="index.html">Reb</a></li>
+  <li><a href="skammel.html">Skammel</a></li>
+  <li><a href="lokken.html">Prøv Løkken</a></li>	
+  <li style="float:right"><a href="disclaimer.html">Disclaimer</a></li>
+</ul>
+
+<div id="container">
+    <video autoplay="true" id="videoElement">
+    </video>
+	
+	<div id="billed-Frame">
+		<img src="Lokke.png" id="billed-Lokke">
+	</div>
+</div>
+
+
+<script>
+var video = document.querySelector("#videoElement");
+ 
+if (navigator.mediaDevices.getUserMedia) {       
+    navigator.mediaDevices.getUserMedia({video: true})
+  .then(function(stream) {
+    video.srcObject = stream;
+  })
+  .catch(function(err0r) {
+    console.log("Something went wrong!");
+  });
+}
+</script>
+</body>
 </html>

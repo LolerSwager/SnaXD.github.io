@@ -68,6 +68,33 @@ ol li a {
 	
 }
 
-a:hover {
+#container {
+	display: block;
+	z-index:-1;
+	position: relative;
+	top: 200px;
+	
+}
+#videoElement {
+    width: 400px;
+	transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+	display: block;
+	margin: auto;
+}
+#billed-Frame {
+	z-index: 1;
+	margin: auto;
+	position: relative;
+	width: 400px;
+	height: auto;
+	top: -300px;
+}
 
+#billed-Lokke {
+	margin: auto;
+	position: relative;
+	width: 400px;
+	top: -220px;
 }

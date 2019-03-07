@@ -1,4 +1,4 @@
-body {
+body{
 	background-color: #202026;
 	zoom: 90%;
 	margin: 0px;
@@ -64,6 +64,7 @@ h3{
 	font-size: 28px;
 	line-height: 0.5;
 	padding-left: 100px;
+	
 }
 
 table tr td {
@@ -74,4 +75,5 @@ table tr td {
 	padding-left: 100px;
 }
 
+	
 	

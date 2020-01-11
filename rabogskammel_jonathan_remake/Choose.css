@@ -1,0 +1,24 @@
+body {
+background-image: url("https://media1.tenor.com/images/7723cf6bbdeecf77d4fba22bb4068967/tenor.gif?itemid=4597222");
+height: 1000px;
+width: 1000px;
+	
+}
+
+
+.Choose {
+	margin-left: 83%;
+	position: absolute;
+	z-index: -1;
+}
+
+img {
+height: 380px;
+width: 280px;	
+}
+
+h1 {
+font-size: 40px;	
+	
+}
+

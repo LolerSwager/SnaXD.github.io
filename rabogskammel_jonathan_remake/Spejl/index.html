@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+<link href="main.css" rel="stylesheet" type="text/css">
+<body>
+<div id="container">
+    <video autoplay="true" id="videoElement">
+    </video>
+
+
+<script>
+var video = document.querySelector("#videoElement");
+ 
+if(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+ navigator.mediaDevices.getUserMedia({ video: true }).then(function(stream) {
+        //video.src = window.URL.createObjectURL(stream);
+        video.srcObject = stream;
+        video.play();
+    });
+}
+</script>
+</body>
+</html>

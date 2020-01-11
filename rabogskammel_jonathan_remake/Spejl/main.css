@@ -1,0 +1,14 @@
+body {
+  background-image: url("Mirror.jpg");
+  zoom: 75%;
+}
+#videoElement {
+    width: 1186px;
+	transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+	margin-left: 870px;
+	margin-top: 102px;
+	margin-bottom: auto;
+	display: block;
+}

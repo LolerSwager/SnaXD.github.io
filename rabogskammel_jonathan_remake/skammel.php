@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="Ræb, og, skammel,">
+		<meta charset="utf-8">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/scroll.css">
+		<title>Reb og Skammel</title>
+	</head>
+	<body>
+		<?php require'header.php'; ?>
+
+
+<table>
+
+	<tr>
+	<h1>Skammeler</h1>
+	</tr>
+    <tr>
+        <td><a href="https://www.ikea.com/dk/da/catalog/products/60265163/" target="_blank"> <img src="https://www.ikea.com/PIAimages/0284761_PE421943_S5.JPG" id="box2"></a><h2>Den Nemme</h2></td>
+        <td><a href="https://www.ikea.com/dk/da/catalog/products/24286205/" target="_blank"> <img src="https://www.ikea.com/PIAimages/20345_PE105506_S5.JPG" id="box2"></a><h2>Den Høje</h2></td>
+        <td><a href="https://www.ikea.com/dk/da/catalog/products/30178879/" target="_blank"> <img src="https://www.ikea.com/dk/da/images/products/bekvam-taburet__0485380_PE621507_S4.JPG" id="box2"></a><h2>Den Praktiske</h2></td>
+		<td><a href="https://www.ikea.com/dk/da/catalog/products/80371520/" target="_blank"> <img src="https://www.ikea.com/dk/da/images/products/trogen-k-kkenstige-b-rnetaburet-gul__0501480_PE631756_S4.JPG" id="box2"></a><h2>Den Barnlige</h2></td>
+
+	</tr>
+    <tr>
+        <td><p>39 DKK<br>Max 150 kg</p></td>
+        <td><p>49 DKK<br>Max 100 kg</p></td>
+		<td><p>79 DKK<br>Max 100 kg</p></td>
+		<td><p>129 DKK<br>Max 100 kg</p></td>
+	</tr>
+    <tr>
+        <td><a href="https://www.ikea.com/dk/da/catalog/products/00385309/" target="_blank"> <img src="https://www.ikea.com/dk/da/images/products/sandared-puf-gra__0561032_PE662663_S4.JPG" id="box2"></a><h2>Den udvidene</h2></td>
+        <td><a href="https://www.amazon.com/Modway-Casper-Contemporary-Modern-Counter/dp/B00BNZ63NO/ref=sr_1_1_sspa?ie=UTF8&qid=1540640304&sr=8-1-spons&keywords=stool&psc=1" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/71qCv5cBlsL._SL1500_.jpg" id="box2"></a><h2>Den Gennemsigtige</h2></td>
+        <td><a href="https://www.amazon.com/Folding-Step-Stool-Lightweight-Bathroom/dp/B014WOXB6O/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1540640319&sr=1-4&keywords=stool" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/71MRYaODymL._SL1500_.jpg" id="box2"></a><h2>Den Transportable</h2></td>
+		<td><a href="https://www.amazon.com/Adjustable-Hydraulic-Rolling-Swivel-Massage/dp/B018FURL8U/ref=sr_1_5_s_it?s=beauty&ie=UTF8&qid=1540640324&sr=1-5&keywords=stool" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/51sa4nEf93L._SL1000_.jpg" id="box2"></a><h2>Den Besværlige</h2></td>
+
+	</tr>
+    <tr>
+        <td><p>499 DKK<br>Max 15 kg</p></td>
+        <td><p>$58.81<br>Max 145.3 kg</p></td>
+		<td><p>$9.99 DKK<br>Max 123.2 kg</p></td>
+		<td><p>$29.99<br>Max 340.5 kg</p></td>
+	</tr>
+    <tr>
+        <td><a href="https://www.amazon.com/Drive-Medical-Adjustable-Height-Stool/dp/B005JIKY4U/ref=sr_1_18_a_it?ie=UTF8&qid=1540640304&sr=8-18&keywords=stool&th=1" target="_blank"> <img src="https://images-na.ssl-images-amazon.com/images/I/612pmLTn5sL._SL1500_.jpg" id="box2"></a><h2>Den Justerbare</h2></td>
+        <td><a href="https://nicehome.dk/shop/46-entreen/1283-maria-skammel-rund/" target="_blank"> <img src="https://sw20705.smartweb-static.com/upload_dir/shop/Maria-skammel-koprint-rund.jpg" id="box2"></a><h2>Den Økologiske</h2></td>
+        <td><a href="https://www.campingpriser.dk/shop/skammel-wecamp-rocket-9350p.html" target="_blank"> <img src="https://www.campingpriser.dk/images/skammel%20wecamp%20rocket%20bl%C3%A5%20954092-p.jpg" id="box2"></a><h2>Den Risikable</h2></td>
+		<td><a href="https://unoliving.com/fdb-mobler-j83-skammel-sort-natur?gclid=CjwKCAjwvNXeBRAjEiwAjqYhFoj-KTNASb_JLghEuxGrOc1YOEowP7FaFDvOs2GEDsrctcDnw7OU0RoCT_QQAvD_BwE" target="_blank"> <img src="https://unoliving.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/F/D/FDBMoebler-J83-Skammel-Sort-natur-FD00217_1.jpg" id="box2"></a><h2>Designeren</h2></td>
+
+	</tr>
+    <tr>
+        <td><p>$22.65<br>Max 53.4 kg</p></td>
+        <td><p>$58.81<br>Max 145.3 kg</p></td>
+		<td><p>$9.99 DKK<br>Max 123.2 kg</p></td>
+		<td><p>$29.99<br>Max 340.5 kg</p></td>
+	</tr>
+	    <tr>
+        <td><a href="https://www.nybolig.dk" target="_blank"> <img src="https://ing.dk/sites/ing/files/styles/w1120_media_right/public/images/27602.jpg" id="box2"></a><h2>4. Sal</h2></td>
+        <td><a href="https://www.interiorshop.dk/shop/carl-hansen---soen-ch24-y-stol-lakeret-boeg---sort-m-naturflet-1102p.html?gclid=CjwKCAjwpeXeBRA6EiwAyoJPKi3BT7eaJd0ghoxqSQi_P1_Uf7HlGW3bWrvZtwYmGnnCaJS_4aoaLhoCwqoQAvD_BwE" target="_blank"> <img src="https://www.interiorshop.dk/images/CH24_bbfg_NCSS9000-N_sort_natur-p.jpg" id="box2"></a><h2>Designeren</h2></td>
+        <td><a href="https://jysk.dk/indretning/taepper/inde-udetaepper/taeppe-rips-160x230cm-sort-beige?gclid=CjwKCAjwpeXeBRA6EiwAyoJPKizosZCxHc0aJp-zIuWoFggbGYGfczyvbNWstBtSJuOrnEkt10x0iRoCYVkQAvD_BwE" target="_blank"> <img src="http://www.priktilprik.com/data/images/Det-Flyvende-t%C3%A6ppe.-Det-magiske-t%C3%A6ppe-af-Aladdin_506c2fb9495f6-thumb.jpg" id="box2"></a><h2>Det flyvende tæppe</h2></td>
+        <td><a href="https://jysk.dk/sovevaerelse/madrasser/boxmadrasser/gold/madras-90x200-gold-b80-dreamzone" target="_blank"> <img src="https://cdn3.jysk.com/getimage/wd2.large/89189" id="box2"></a><h2>Den bløde</h2></td>
+	</tr>
+    <tr>
+        <td><p>4000 DKK/Md<br>Max inf kg</p></td>
+        <td><p>5.304 DKK<br>Max 170 kg</p></td>
+        <td><p>549 DKK<br>Max inf kg</p></td>
+        <td><p>10.999 DKK<br>Max 450 kg</p></td>
+		</tr>
+	</tr>
+	    <tr>
+        <td><a href="https://sitnsleep.dk/java-baenk-teaktrae-16321.html?utm_source=google_shopping&gclid=CjwKCAjwpeXeBRA6EiwAyoJPKjb0gMitcnjX7JVhMpBdPFtDOxcR2Xp89bH6EYnfjHktiO140j6AFhoCVxEQAvD_BwE" target="_blank"> <img src="https://sitnsleep.dk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/java_skammel_teaktr_.jpg" id="box2"></a><h2>Den Antikke</h2></td>
+        <td><a href="https://www.google.dk/shopping/product/15698854283668693906?q=skammel&biw=1366&bih=626&prds=paur:ClkAsKraX4NCIuUXQz6xr5UWVBKkQLDLYQ0eNX8pfj3MgSqrz3_g7RmmmAJ4sV7-trF9KaeP7vUSmbr20WCz73_u6cCWRC6PUyiRk6fLxKD25yGNM6Pvg992JhIZAFPVH7197F7RnOhCDoTQp4ScAe5RHXTnKA,hsec:online&sa=X&ved=0ahUKEwj0vd7BmrDeAhUQqIsKHSBdCbQQ8gIIqAQ" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS8aWbjnrIpOuW_hEzYn6NOcQGe99JMO8bQTTGE4hZZFxZcUO-YhJwtYFMflATdSXlSHtT9fCz50s9uf0JyihpW9AG7lCHy&usqp=CAY" id="box2"></a><h2>Malerens Udvej</h2></td>
+        <td><a href="https://www.google.dk/shopping/product/6613102162197153137?q=skammel&biw=1366&bih=626&prds=paur:ClkAsKraX306nroUsWb7RXOgTNCSXmWXYVzSCaRmyDSHHSz5vLIeTr99EilY6gIIvF2bS53fv42UsvRJLrHaoa_M_oFmvnmxlprmlf_2hQKrIycecvwJ9XaeLBIZAFPVH71BQfLZ9JOCrzP8SmHgdqII3d2rcA&sa=X&ved=0ahUKEwj0vd7BmrDeAhUQqIsKHSBdCbQQ8gII5gQ" target="_blank"> <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS0nFGwkwCoH9bg97OnVYPXP0wo_x1crJdYZLChF3XrbbTDhsyocp55rPm9GlUtsLhU4ibbyFhBA6vJiMG1fpRQyuHdV7YX-4P7wmcxLleGjJpqrrdYP0c8&usqp=CAY" id="box2"></a><h2>Den kinesiske</h2></td>
+         <td><a href="https://www.cultfurniture.dk/m%C3%B8bler-c10/barstole-c8/fodst%C3%B8tter-og-puffer-c765/viserra-lav-skammel-velour-betrukket-lyser%C3%B8d-p14470/s31220?gclid=CjwKCAjwpeXeBRA6EiwAyoJPKpm8LPCzi_VxXTCEDcxQYKA1_IgNPNi0BAoH-8FSknSQkm3QrR5VTxoCysIQAvD_BwE" target="_blank"> <img src="https://www.cultfurniture.dk/images/products/medium/1538410381-21769500.jpg" id="box2"></a><h2>Skumfidusen</h2></td>
+ 	</tr>
+    <tr>
+        <td><p>699 DKK/Md<br>Max 180 kg</p></td>
+        <td><p>299 DKK<br>Max 120 kg</p></td>
+        <td><p>3.495 DKK<br>Max 100 kg</p></td>
+        <td><p>748 DKK<br>Max 130 kg</p></td>
+		</tr>
+    <tr>
+        <td><a href="https://ilva.dk/spisestuen/tilbehoer/skamler/bamboo/sort-bambus/p-1046991-5640989105/?gclid=CjwKCAjwpeXeBRA6EiwAyoJPKv81mnKulwjrvVZxU3mu04JVfBeVbP_IU0zRbkZIPQxIQ1Nqwly91BoCkdoQAvD_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://ilva.dk/webshop/images/Ide-faelles/100003121738-001.JPG?height=1000&width=1000&cropmode=contain&bgcolor=white&quality=75" id="box2"></a><h2>Den Miljøvenlige</h2></td>
+        <td><a href="https://www.witre.dk/da/wde/skammel-kik-step-manutan-r%C3%B8d-86179?infinity=ict2~net~gaw~ar~248719787261~kw~~mt~~cmp~%28DK%3AWhoop%21%29%20All%20Products~ag~%28DK%3AWhoop%21%29%20Lager%20%26%20Industri&gclid=CjwKCAjwpeXeBRA6EiwAyoJPKl0gT_l-D4mRM8DuoWOI2qdNBYmOFVxkts9p3c19ebILq4V1s0NdNBoCKR8QAvD_BwE" target="_blank"> <img src="https://www.witre.dk/img/W/WDE/aa/ST/aa-86179-LM.jpg" id="box2"></a><h2>Den Farlige</h2></td>
+        <td><a href="https://www.bilka.dk/byggemarked/stiger/alle-stiger/alu-skammel-2-x-2-trin/p/100253760?&cmpid=aw_search_01040203011700000000&gclid=CjwKCAjwpeXeBRA6EiwAyoJPKg3CaiFJdQgoXi-IsA87bHM0x9pw5a7pvXTrajf61jUcKRdwGI1COBoCNXgQAvD_BwE" target="_blank"> <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTsQagZE9M6YNW030fxrHop79g4cJJNC00iy7tMUC8h3gsQH8w6OBRsP7hPYdyn1WIrO3A1vwg6QvWKdztxuaWIAx85N5u4keepsfMAw4X-6ZDmNOFJNaCz&usqp=CAY" id="box2"></a><h2>Transortable Trappe</h2></td>
+        <td><a href="https://www.google.dk/shopping/product/12226688704080336617?q=skammel&biw=1366&bih=626&prds=paur:ClkAsKraX5Hy4dZBQS_XOp_cfxj1cyrg3JuBr4gG92-V5Fo08O1ZvusyIjiG9RPW_nn46s_zJckMGLxssd7S4OfAYmKDkZ2bgHOu15eWGEAUxztwL-ViiJ9vlhIZAFPVH71zjfavg8ZK6v8vSuzMp6OG4plpdQ&sa=X&ved=0ahUKEwiT-5zrnbDeAhUixosKHR3OABc4KBDyAgimBQ" target="_blank"> <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpHdZY6UineogHqnA8lxbnxaiAsZAoTijRYsWEMnYDgd7Py6A9ojcLu_GpzBk8-dxRYyPtsw3BLY_aKONQxr_74ktE-hwYbGa0nzXtwyzvp73tohvQKSxz&usqp=CAY" id="box2"></a><h2>Den Forvoksede Grævling</h2></td>
+	</tr>
+    <tr>
+        <td><p>299 DKK<br>Max 53 kg</p></td>
+        <td><p>300 DKK<br>Max 95 kg</p></td>
+		<td><p>249 DKK<br>Max 120 kg</p></td>
+		<td><p>550 DKK<br>Max 90 kg</p></td>
+	</tr>
+    <tr>
+        <td><a href="https://www.fcomputer.dk/nzxt-h440w-new-edition-silent-ultra-special-razer-edition?gclid=CjwKCAjwpeXeBRA6EiwAyoJPKo3YapcvIyHieDGdlfbkmrpL3ZOPHrws5M2ER0KO4LiSZpoYUiTDwRoCZroQAvD_BwE" target="_blank"> <img src="https://s3.eu-west-2.amazonaws.com/foeniks-products/0df1206e-3f60-11e6-b312-0050569027b5/aabd6712-4e5e-11e6-8d80-0050569027b5/1200x800.jpg" id="box2"></a><h2>Den Grønne Gamer</h2></td>
+        <td><a href="https://www.lauritz.com/da/auktion/poul-pava-skammel-med-portraet/i3806288/?ver=0c" target="_blank"> <img src="https://images.lauritz.com/images/0B2EF461744F63ECD89D5BC34755AFF0?width=300" id="box2"></a><h2>Poul pava</h2></td>
+        <td><a href="https://www.rosenkrans-butikken.no/produkt/vegg-kors-krusifiks/se-alle-veggkors-i-tre/veggkors-i-oliventre-a" target="_blank"> <img src="https://www.rosenkrans-butikken.no/assets/img/1024/1024/bilder_nettbutikk/0c7ee6d77ef691156839a3f8d6758a4a-image.jpeg" id="box2"></a><h2>Den kristne</h2></td>
+        <td><a href=""> <img src="" id="box2"></a><h2>Den Miljøvenlige</h2></td>
+		</tr>
+    <tr>
+        <td><p>1.394 DKK<br>Max 24 kg</p></td>
+        <td><p>2.500 DKK<br>Max 300 kg</p></td>
+		<td><p>480 NOK<br>Max 240 kg</p></td>
+		<td><p>550 DKK<br>Max 90 kg</p></td>
+	</tr>
+
+
+</table>
+        <?php require'footer.php'; ?>
+    </body>
+</html>

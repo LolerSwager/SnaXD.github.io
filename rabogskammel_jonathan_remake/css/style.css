@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: .8rem;
+}
+
+#box2{
+		width: 300px;
+		height: 250px;
+		text-align: center;
+		}
+
+p {
+		font-size: 20px;
+}
+
+table{
+	width: 100%;
+	height: auto;
+}
+body{
+	zoom: 80%;
+}
+
+ul.b {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+float: left;
+}
+
+table>li {
+	background-color: #FF00FF
+}
+
+#bbc {
+	font-size: 24px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+
+}
+
+#container {
+	display: block;
+	z-index:-1;
+	position: relative;
+	top: 200px;
+	
+}
+#videoElement {
+    width: 400px;
+	transform: rotateY(180deg);
+    -webkit-transform:rotateY(180deg);
+    -moz-transform:rotateY(180deg);
+	display: block;
+	margin: auto;
+}
+#billed-Frame {
+	z-index: 1;
+	margin: auto;
+	position: relative;
+	width: 400px;
+	height: auto;
+	top: -300px;
+}
+
+#billed-Lokke {
+	margin: auto;
+	position: relative;
+	width: 400px;
+	top: -220px;
+}
+
+/* footer */
+
+footer{
+    text-align: center;
+}
